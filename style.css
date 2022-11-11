@@ -135,6 +135,10 @@ color: #E1E1E6;
     animation: appear .2s forwards;
 }
 
+.card {
+    opacity: 0;
+    animation: appear .2s forwards;
+}
 
 @keyframes appear {
     0% {

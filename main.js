@@ -29,6 +29,10 @@ document.querySelector('#app').innerHTML = `
     <img src="./assets/logo.svg"
      alt="logo da nlw">    
 </header>
+<header>
+    <img src="./assets/logo.svg"
+     alt="logo da nlw">    
+</header>
 <main id="cards">
  ${createCard("24/11", "quinta",
     createGame ('brazil','16:00', 'serbia') +
